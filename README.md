@@ -26,8 +26,8 @@ An end-to-end Machine Learning pipeline and web application that classifies text
 
 2. **Install dependencies:**
 
-    (conda) conda install --file requirements.txt
-    (pip)   pip install -r piprequirements.txt
+    `(conda)` conda install --file requirements.txt|
+    `(pip)`   pip install -r piprequirements.txt
 
 3. **Run local inference test:**
 
@@ -50,5 +50,4 @@ An end-to-end Machine Learning pipeline and web application that classifies text
 | **Multinomial Naive Bayes** |   **0.9749**  | **0.9817**    | **0.8168** | **0.8917** | **Selected** |
 |   Logistic Regression       |     0.9555    |    1.0000     |   0.6489   |   0.7871   |   Rejected   |
 |   Support Vector Machine    |     0.9758    |   0.9732      |   0.8321   |   0.8971   |   Alternate  |
-|______________________________________________________________________________________________________|
 
