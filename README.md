@@ -26,7 +26,7 @@ An end-to-end Machine Learning pipeline and web application that classifies text
 
 2. **Install dependencies:**
 
-    `(conda)` conda install --file requirements.txt|
+    `(conda)` conda install --file requirements.txt |OR| 
     `(pip)`   pip install -r piprequirements.txt
 
 3. **Run local inference test:**
