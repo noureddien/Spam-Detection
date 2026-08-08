@@ -5,7 +5,7 @@ An end-to-end Machine Learning pipeline and web application that classifies text
 ---
 
 ## Project Structure
-
+```text
 ├── weights/
 │   ├── best_model.pkl          # Serialized Multinomial Naive Bayes classifier
 │   └── vectorizer.pkl          # Serialized TF-IDF Vectorizer
@@ -17,7 +17,7 @@ An end-to-end Machine Learning pipeline and web application that classifies text
 ├── app.py                      # Streamlit web application interface
 ├── requirements.txt            # Python dependencies (conda)
 └── piprequirements.txt         # Python dependencies (pip)
-
+```
 ## Setup & Installation
 
 1. **Clone repo:**
