@@ -1,0 +1,9 @@
+# Python cache files
+__pycache__/
+*.pyc
+# Local editor configurations
+.vscode/
+
+# Virtual environment
+spenv/
+.env
