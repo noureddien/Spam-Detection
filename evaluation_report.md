@@ -7,3 +7,5 @@
 |------------------------------------------------------------------------------------------------------|
 |   Support Vector Machine    |     0.9758    |   0.9732      |   0.8321   |   0.8971   |   Alternate  |
 |______________________________________________________________________________________________________|
+
+# While Log regression model's precision is high, its recall accuracy is low. Thus Naive Bayes was selected as the best performer overall.
