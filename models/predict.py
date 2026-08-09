@@ -22,6 +22,6 @@ def classify_message(message: str) -> str:
 
 # Test execution
 if __name__ == "__main__":
-    test_msg = "WINNER!! You have won a $1,000 cash prize! Text CLAIM to 80085 now."
+    test_msg = "you have won 15000$ for free"
     print("Input Message:", test_msg)
     print("Result:", classify_message(test_msg))
