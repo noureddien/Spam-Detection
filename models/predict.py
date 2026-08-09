@@ -22,6 +22,6 @@ def classify_message(message: str) -> str:
 
 # Test execution
 if __name__ == "__main__":
-    test_msg = "you have won 15000$ for free"
+    test_msg = "Guaranteed loan up to $5,000 with no credit check! Apply now at cash-fast-now.com."
     print("Input Message:", test_msg)
     print("Result:", classify_message(test_msg))
