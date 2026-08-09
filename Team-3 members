@@ -1,0 +1,18 @@
+##NourEldien Mohamed (Model Development and analysis)
+
+  -Model Development & Optimization: Designed, trained, and evaluated the Multinomial Naive Bayes classification model using TF-IDF feature extraction.
+  -Performance Analysis: Achieved 97.49% accuracy and a 0.9901 ROC-AUC score; generated confusion matrix plots.
+  -Core Logic & Prediction Pipeline: Engineered the core prediction module (models/predict.py) and preprocessed text data using NLTK tokenization. (With help from eng/Eman Mahmoud Hassan)
+
+
+##Eman Mahmoud Hassan (Streamlit app)
+
+  -Frontend Design: Built the interactive Streamlit web dashboard (app.py), configuring the multi-column layout, sidebar parameters, and metric displays.
+  -Real-Time Scoring: Connected the ML prediction backend to the text area input for message classification.
+  -Data Visualization: Dataset dynamic loading, Matplotlib pie charts for class distribution, and confusion matrix display.
+
+
+##Ebrahim Abdalla Abdelghany Othman (Project documentation)
+
+  -Setup Guides: Created the project README.md and Streamlit interface documentation, providing setup steps, execution commands, and dependency listings (requirements.txt).
+  -Environment Maintenance: Project structure.
