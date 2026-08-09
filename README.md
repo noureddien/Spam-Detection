@@ -1,6 +1,8 @@
 # SMS Spam Detection System
 
 An end-to-end Machine Learning pipeline and web application that classifies text messages as **Spam** or **Ham (Legitimate)** using Natural Language Processing (NLP) and Multinomial Naive Bayes model.
+<img width="1310" height="469" alt="image" src="https://github.com/user-attachments/assets/d30232e6-0dd2-40a9-9ca4-8c9c5ffe7639" />
+<img width="1339" height="869" alt="image" src="https://github.com/user-attachments/assets/c7060966-4394-4dc6-829a-63dd2fe8e6c1" />
 
 ---
 
@@ -32,6 +34,15 @@ An end-to-end Machine Learning pipeline and web application that classifies text
 3. **Run local inference test:**
 
     python models/predict.py
+
+## Web Interface (Streamlit)
+
+This project includes an interactive web application built with Streamlit for real-time spam classification and model performance monitoring.
+
+### Features
+* **Real-time Classification:** Input custom SMS or email text to receive instant "Spam" or "Ham" predictions.
+* **Model Dashboard:** View evaluation metrics (Accuracy: 97.49%, Precision: 98.17%, Recall: 81.68%, ROC-AUC: 0.9901).
+* **Data Visualizations:** Interactive dataset class distribution pie chart, saved confusion matrix, and message length distribution analysis.
 
 
 ## Features & Implementation
